@@ -34,8 +34,6 @@
 
 ![namesace0427's GitHub stats](https://github-readme-stats.vercel.app/api?username=namesace0427&show_icons=true&theme=transparent)
 
-[![namesace0427's GitHub stats](https://github-readme-stats.vercel.app/api?username=namesace0427)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!---
 namesace0427/namesace0427 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
